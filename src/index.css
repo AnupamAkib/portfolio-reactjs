@@ -10,10 +10,17 @@ body {
   text-align:center;
   color:white;
   margin-top:-70px;
+  font-size:large;
 }
 
 .formatText{
   font-size:large;
   padding:20px;
   text-align:justify;
+}
+
+.socialIcon{
+  font-size:28px;
+  color:white;
+  padding:8px;
 }

@@ -1,0 +1,12 @@
+[
+    {"name" : "HTML", "label" : "90%"},
+    {"name" : "CSS", "label" : "70%"},
+    {"name" : "JavaScript", "label" : "70%"},
+    {"name" : "PHP", "label" : "60%"},
+    {"name" : "React.js", "label" : "60%"},
+    {"name" : "Node.js", "label" : "50%"},
+    {"name" : "MySQL", "label" : "60%"},
+    {"name" : "MongoDB", "label" : "40%"},
+    {"name" : "C/C++", "label" : "85%"},
+    {"name" : "Problem Solving", "label" : "80%"}
+]

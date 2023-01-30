@@ -51,7 +51,6 @@ const Header = () => {
           pages.push({ text:"Projects", href:"/projects", icon:"fa fa-tasks" })
           pages.push({ text:"Honors & Awards", href:"/awards", icon:"fa fa-trophy" })
           pages.push({ text:"Contacts", href:"/contacts", icon:"fa fa-phone-square" })
-          pages.push({ text:"About", href:"/about", icon:"fa fa-user-circle" })
           pages.push({ text:"Personal Details", href:"/personal_details", icon:"fa fa-user-circle-o" })
           pages.push({ text:"CP Profile", href:"/cp_profile", icon:"fa fa-code" })
           pages.push({ text:"Download Resume", href:"/download_resume", icon:"fa fa-download" })
