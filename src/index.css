@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  font-family: Consolas;
+  font-family: 'Inconsolata', monospace;
+  font-size:large;
 }
 
 

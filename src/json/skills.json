@@ -1,12 +1,24 @@
 [
-    {"name" : "HTML", "label" : "90%"},
+    {"name" : "HTML", "label" : "75%"},
     {"name" : "CSS", "label" : "70%"},
     {"name" : "JavaScript", "label" : "70%"},
     {"name" : "PHP", "label" : "60%"},
-    {"name" : "React.js", "label" : "60%"},
+    {"name" : "React.js", "label" : "65%"},
     {"name" : "Node.js", "label" : "50%"},
     {"name" : "MySQL", "label" : "60%"},
     {"name" : "MongoDB", "label" : "40%"},
     {"name" : "C/C++", "label" : "85%"},
-    {"name" : "Problem Solving", "label" : "80%"}
+    {"name" : "Problem Solving", "label" : "80%"},
+    {"name" : "OOP", "label" : "70%"},
+    {"name" : "Git/Github", "label" : "50%"},
+    {"name" : "Design Pattern", "label" : "30%"},
+    {"name" : "Operating System", "label" : "20%"},
+    {"name" : "Material UI", "label" : "40%"},
+    {"name" : "Express.js", "label" : "25%"},
+    {"name" : "Java", "label" : "50%"},
+    {"name" : "Python", "label" : "20%"},
+    {"name" : "Data Structures", "label" : "85%"},
+    {"name" : "Algorithms", "label" : "82%"},
+    {"name" : "Bootstrap", "label" : "55%"},
+    {"name" : "Web Development", "label" : "75%"}
 ]
