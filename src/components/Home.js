@@ -3,7 +3,7 @@ import IntroData from '../json/intro.json'
 import Skills from './skills/Skills';
 import { Button } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
-import Education_card from './educations/Education_card';
+import Education_display from './educations/Education_display';
 
 function Home() {
 	const navigate = useNavigate();
@@ -51,7 +51,7 @@ function Home() {
         {/*Section for Education */}
 				<div className='padding20'>
 					<h1>EDUCATIONS</h1><hr/>
-					<Education_card />
+					<Education_display />
 					<center>
 						<Button size="large" onClick={()=>navigate("/educations")}>
 							<i className='fa fa-external-link' style={{marginRight:"9px"}}></i>

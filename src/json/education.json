@@ -7,9 +7,73 @@
         "location" : "Dhaka, Bangladesh",
         "duration" : "January 2019 - December 2022",
         "course_wise_result" : [
-            {"course" : "Computer Fundamental", "result" : "4.00"},
-            {"course" : "Data Structures & Algorithms", "result" : "4.00"},
-            {"course" : "Software Quality Assurance & Testing", "result" : "3.00"}
+            {"course" : "Computer Fundamentals", "result" : "4.00"},
+            {"course" : "Computer Fundamentals Lab", "result" : "4.00"},
+            {"course" : "Introduction to Software Engineering", "result" : "4.00"},
+            {"course" : "Art of Living", "result" : "3.75"},
+            {"course" : "English I", "result" : "4.00"},
+            
+            {"course" : "Structured Programming", "result" : "4.00"},
+            {"course" : "Structured Programming Lab", "result" : "4.00"},
+            {"course" : "Discrete Mathematics", "result" : "4.00"},
+            {"course" : "Physics I", "result" : "3.75"},
+            {"course" : "Mathematics I", "result" : "4.00"},
+
+            {"course" : "Mathematics II", "result" : "4.00"},
+            {"course" : "Statistics I", "result" : "4.00"},
+            {"course" : "Data Structure", "result" : "4.00"},
+            {"course" : "Data Structure Lab", "result" : "4.00"},
+            {"course" : "Software Development Capstone Project", "result" : "4.00"},
+
+            {"course" : "Digital Electronics & Logic Design", "result" : "4.00"},
+            {"course" : "Software Requirement Specifications & Analysis", "result" : "4.00"},
+            {"course" : "Algorithms Design & Analysis", "result" : "4.00"},
+            {"course" : "Algorithms Design & Analysis Lab", "result" : "4.00"},
+            {"course" : "Object Oriented Concepts", "result" : "4.00"},
+
+            {"course" : "Object Oriented Design", "result" : "4.00"},
+            {"course" : "Database System", "result" : "4.00"},
+            {"course" : "Database System Lab", "result" : "4.00"},
+            {"course" : "Operating System & System Programming", "result" : "3.75"},
+            {"course" : "Operating System & System Programming Lab", "result" : "3.75"},
+            {"course" : "Principles of Accounting, Business & Economics", "result" : "3.75"},
+
+            {"course" : "Software Quality Assurance & Testing", "result" : "3.50"},
+            {"course" : "Software Quality Assurance & Testing Lab", "result" : "3.25"},
+            {"course" : "Design Pattern", "result" : "4.00"},
+            {"course" : "System Analysis & Design Capstone Project", "result" : "4.00"},
+            {"course" : "Theory of Computing", "result" : "3.50"},
+
+            {"course" : "Software Engineering Web Application", "result" : "4.00"},
+            {"course" : "Software Engineering Web Application Lab", "result" : "4.00"},
+            {"course" : "Software Architecture & Design", "result" : "3.75"},
+            {"course" : "Introduction to Robotics", "result" : "4.00"},
+            {"course" : "Software Engineering Professional Ethics", "result" : "3.75"},
+            {"course" : "Management Information System", "result" : "3.75"},
+
+            {"course" : "Compiler Design", "result" : "4.00"},
+            {"course" : "Information System Security", "result" : "3.75"},
+            {"course" : "Software Engineering Design Capstone Project", "result" : "4.00"},
+            {"course" : "Artificial Intelligence", "result" : "4.00"},
+            {"course" : "Artificial Intelligence Lab", "result" : "4.00"},
+
+            {"course" : "Introduction to Machine Learning", "result" : "3.75"},
+            {"course" : "Software Project Management & Documentation", "result" : "4.00"},
+            {"course" : "Computer Architecture", "result" : "3.75"},
+            {"course" : "Business Analysis & Communication", "result" : "3.50"},
+            {"course" : "Numerical Analysis", "result" : "4.00"},
+
+            {"course" : "Data Warehouse & Data Mining", "result" : "4.00"},
+            {"course" : "Human Computer Interaction", "result" : "3.75"},
+
+            {"course" : "Bangladesh Studies", "result" : "3.50"},
+            {"course" : "Data Communication & Computer Networking", "result" : "3.75"},
+            {"course" : "Data Communication & Computer Networking Lab", "result" : "3.75"},
+            {"course" : "Employability Skills 360Â°", "result" : "3.50"},
+
+            {"course" : "Final Semester Project/Thesis", "result" : "4.00"}
+            
+
         ]
     },
     {
@@ -20,9 +84,13 @@
         "location" : "Dhaka, Bangladesh",
         "duration" : "July 2016 - June 2018",
         "course_wise_result" : [
-            {"course" : "Bangla", "result" : "5.00"},
-            {"course" : "English", "result" : "4.75"},
-            {"course" : "Physics", "result" : "5.00"}
+            {"course" : "BANGLA", "result" : "A"},
+            {"course" : "ENGLISH", "result" : "A"},
+            {"course" : "INFORMATION & COMMUNICATION TECHNOLOGY", "result" : "A"},
+            {"course" : "PHYSICS", "result" : "A-"},
+            {"course" : "CHEMISTRY", "result" : "A+"},
+            {"course" : "HIGHER MATHEMATICS", "result" : "A-"},
+            {"course" : "BIOLOGY", "result" : "A"}
         ]
     }
 ]
