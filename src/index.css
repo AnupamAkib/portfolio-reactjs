@@ -20,8 +20,20 @@ body {
   text-align:justify;
 }
 
+.padding20{
+  font-size:large;
+  padding:20px;
+}
+
 .socialIcon{
   font-size:28px;
   color:white;
   padding:8px;
+}
+
+.subdiv{
+  background-color: #ffffff;
+  margin-bottom:8px;
+  padding:6px;
+  border-radius: 8px;
 }

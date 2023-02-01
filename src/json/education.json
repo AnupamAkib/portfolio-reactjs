@@ -1,0 +1,28 @@
+[
+    {
+        "institute" : "Daffodil International University",
+        "degree" : "Bachelor of Science in Software Engineering",
+        "result" : "CGPA: 3.88 / 4.00",
+        "institute_logo" : "/assets//diu.png",
+        "location" : "Dhaka, Bangladesh",
+        "duration" : "January 2019 - December 2022",
+        "course_wise_result" : [
+            {"course" : "Computer Fundamental", "result" : "4.00"},
+            {"course" : "Data Structures & Algorithms", "result" : "4.00"},
+            {"course" : "Software Quality Assurance & Testing", "result" : "3.00"}
+        ]
+    },
+    {
+        "institute" : "Govt. Mohammadpur Model School & College",
+        "degree" : "Higher Secondary School Certificate",
+        "result" : "GPA: 4.33 / 5.00",
+        "institute_logo" : "/assets/mmsc.png",
+        "location" : "Dhaka, Bangladesh",
+        "duration" : "July 2016 - June 2018",
+        "course_wise_result" : [
+            {"course" : "Bangla", "result" : "5.00"},
+            {"course" : "English", "result" : "4.75"},
+            {"course" : "Physics", "result" : "5.00"}
+        ]
+    }
+]
