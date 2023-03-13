@@ -48,8 +48,10 @@ export default function Education() {
 
     return (
         <div className='container'>
-            <Title>Academic Education</Title>
-            {displayEducation()}
+            <div className='padding20'>
+                <Title>Academic Education</Title>
+                {displayEducation()}
+            </div>
         </div>
     )
 }

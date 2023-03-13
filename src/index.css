@@ -1,6 +1,5 @@
 body {
   margin: 0;
-  font-family: 'Inconsolata', monospace;
   font-size:large;
 }
 
@@ -16,13 +15,13 @@ body {
 
 .formatText{
   font-size:large;
-  padding:20px;
+  padding:5px 20px 20px 20px;
   text-align:justify;
 }
 
 .padding20{
   font-size:large;
-  padding:20px;
+  padding:5px 20px 20px 20px;
 }
 
 .socialIcon{

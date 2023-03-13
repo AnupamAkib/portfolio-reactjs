@@ -11,7 +11,7 @@ export default function Skills_view() {
     return (
         <div className='container'>
             <div className='formatText'>
-                <Title>All skills</Title>
+                <Title>All Skills</Title>
                 <Skills size={1000}/>
             </div>
         </div>

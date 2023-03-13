@@ -4,6 +4,7 @@ import Skills from './skills/Skills';
 import { Button } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
 import Education_display from './educations/Education_display';
+import Projects from './projects/Projects';
 
 function Home() {
 	const navigate = useNavigate();
@@ -63,7 +64,7 @@ function Home() {
         
         {/*Section for SKILLS */}
 				<div className='padding20'>
-					<h1>Skills</h1><hr/>
+					<h1>SKILLS</h1><hr/>
 					<Skills size={6}/>
 					<center>
 						<Button size="large" onClick={()=>navigate("/skills")}>
@@ -73,6 +74,19 @@ function Home() {
 					</center>
 				</div>
 
+		{/*Section for Projects */}
+				<div className='padding20'>
+					<h1>PROJECTS</h1><hr/>
+					{<Projects cnt={5}/>}
+					<center>
+						<Button size="large" onClick={()=>navigate("/projects")}>
+							<i className='fa fa-external-link' style={{marginRight:"9px"}}></i>
+							View all projects
+						</Button>
+					</center>
+				</div>
+
+		
 
 			</div>
 			

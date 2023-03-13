@@ -62,7 +62,9 @@ const Header = () => {
     <React.Fragment>
       <AppBar sx={{ background: "#0052a3" }}  style={{zIndex:"11555"}}>
         <Toolbar style={{padding:"10px 8px 8px 8px"}}>
-          <font size='5' style={{marginLeft:"10px"}}>ANUPAM's Portfolio</font>
+          <font size='5' style={{marginLeft:"15px"}}>
+            <img src="/akib_sign.png" width="145px" onClick={()=>navigate("/")}/> 
+          </font>
           
           {isMatch ? (
             <>

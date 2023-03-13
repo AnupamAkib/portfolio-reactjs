@@ -1,0 +1,111 @@
+[
+    {
+        "title" : "DIU Library Service",
+        "description" : "Designed & developed a system where students can use their university library online. This project has a feature to solve locker key distribution of DIU Library. Admin can control all the system.",
+        "logo" : "/assets/projects_logo/diu_library_service.png",
+        "duration" : "June 2022 - December 2022",
+        "github_link" : "https://github.com/AnupamAkib/DIU-Library-Service-React.js-frontend",
+        "live_link" : "https://diulibrary.netlify.app/",
+        "technology_used" : "React.js, Node.js, PHP, JavaScript, Material UI, MongoDB"
+    },
+
+    {
+        "title" : "SEC Attendance Portal",
+        "description" : "Designed & developed a location detection-based attendance portal for Samsung showroom employees. Employees do login to submit attendance & admin can manage employees, attendance and can generate report in an excel file. This project was under production for 6 months",
+        "logo" : "/assets/projects_logo/sec.png",
+        "duration" : "May 2022 - May 2022",
+        "github_link" : "https://github.com/AnupamAkib/SEC-Attendance-Portal-React.js-Node.js",
+        "live_link" : "https://sec-portal.netlify.app/",
+        "technology_used" : "React.js, Node.js, JavaScript, MaterialUI, MongoDB"
+    },
+
+    {
+        "title" : "My Open Diary",
+        "description" : "Developed a system where users can keep their stories. Stories with ‘Public’ visibility can be viewed by everyone. There is a good admin panel to control the system.",
+        "logo" : "/assets/projects_logo/diary.png",
+        "duration" : "Jun 2021 - July 2021",
+        "github_link" : "https://github.com/AnupamAkib/My-Open-Diary-Project-PHP-PostgreSQL",
+        "live_link" : "",
+        "technology_used" : "HTML, CSS, Bootstrap, JavaScript, PHP, MySQL"
+    },
+
+    {
+        "title" : "MujibBarsho Calendar",
+        "description" : "Designed a system to automate the MujibBarsha Calendar that was published in 100th Birthday of Bangabandhu Sheikh Mujibur Rahman. This system can also convert any English date to Mujib date.",
+        "logo" : "/assets/projects_logo/mujib.png",
+        "duration" : "March 2020 - March 2020",
+        "github_link" : "https://github.com/AnupamAkib/MujibBorshoCalendar-PHP-Project",
+        "live_link" : "https://diulibrary.000webhostapp.com/mujib_calendar/",
+        "technology_used" : "HTML, CSS, JavaScript, PHP"
+    },
+
+    {
+        "title" : "Health Consultant",
+        "description" : "Health Consultant project is based on Java Swing. User can know about his health condition calculating BMI and BMR and if he/she is affected by COVID-19 or not. This system is able to give suggestion to user for maintaining a good physical health. I tried to make it as simple as possible.",
+        "logo" : "/assets/projects_logo/health.png",
+        "duration" : "January 2020 - March 2020",
+        "github_link" : "https://github.com/AnupamAkib/Health-Consultant-Java-Swing",
+        "live_link" : "",
+        "technology_used" : "Java, Swing GUI"
+    },
+
+    {
+        "title" : "FreeFire Top Up Center",
+        "description" : "FlashShop is a small e-commerce site where FreeFire players can top-up Diamonds. They select package, pay for it and waiting for admin approval. Admin check an order and top-up diamond in user's FreeFire account. There is a good admin panel for admin. Admin can manage order, add packages, delete packages, edit settings, view lifetime order count and sell amount etc. This website is very responsive for both PC and mobile.",
+        "logo" : "/assets/projects_logo/flash_shop.png",
+        "duration" : "February 2022 - February 2022",
+        "github_link" : "https://github.com/AnupamAkib/FlashShop-FreeFireTopUp-MERN_Stack",
+        "live_link" : "",
+        "technology_used" : "React.js, Node.js, Express.js, Material UI, MongoDB"
+    },
+
+    {
+        "title" : "Dhaka City Bus Route Tracker",
+        "description" : "User can select his travel route and can easily get which bus service is available in this route and how much it will cost. It was a team project. My role was to develop the bus searching process in backend when user request.",
+        "logo" : "/assets/projects_logo/bus.jpg",
+        "duration" : "Sep 2021 - Oct 2021",
+        "github_link" : "https://github.com/Moeen10/Bus-Route-Tracker",
+        "live_link" : "https://dhaka-city-bus-route.netlify.app/",
+        "technology_used" : "React.js, Node.js, Express.js, Material UI, MongoDB"
+    },
+
+    {
+        "title" : "Pigeon Anonymous Message Sender",
+        "description" : "It is an anonymous message sender app based on PHP. User can receive anonymous message from his friend through sharing his profile link to his social site. It was my 4th semester personal project. I used file system for saving data.",
+        "logo" : "/assets/projects_logo/bird.png",
+        "duration" : "Mar 2020 - Mar 2020",
+        "github_link" : "https://github.com/AnupamAkib/Pigeon-Anonymous-Msg-Sender-PHP-Project",
+        "live_link" : "",
+        "technology_used" : "HTML, CSS, JavaScript, PHP"
+    },
+
+    {
+        "title" : "Baniara Blood Bank",
+        "description" : "Made this project for my villagers. My village name is Baniara. This project contains almost everyone's blood group of my village people. People can search for blood in this webapp. People can also register himself as a blood donor in this webapp, can login to the system and can change his information. My 4th semester personal project based on PHP. Used file system to save data.",
+        "logo" : "/assets/projects_logo/blood.png",
+        "duration" : "Feb 2020 - Feb 2020",
+        "github_link" : "https://github.com/AnupamAkib/BaniaraBloodData-PHP-Project",
+        "live_link" : "",
+        "technology_used" : "HTML, CSS, JavaScript, PHP"
+    },
+
+    {
+        "title" : "Tic Tac Toe - Console Game",
+        "description" : "A simple Tic Tac Toe game. This game can be played by two players. It is a console game made using raw C++. I used C++ file system to save information",
+        "logo" : "/assets/projects_logo/tic-tac-toe.jpg",
+        "duration" : "Jan 2020 - Jan 2020",
+        "github_link" : "https://github.com/AnupamAkib/My-C-Cpp-Project/tree/master/Tic%20Tac%20Toe_Games%20(3rd%20Semester%20Personal%20Project%20using%20C%2B%2B)",
+        "live_link" : "",
+        "technology_used" : "C/C++"
+    },
+
+    {
+        "title" : "Bus Ticket Booking System",
+        "description" : "This is a project where user can search for bus and book bus. For booking a bus, user need to login/sign up to the system search for bus in his route. Then all available bus in that route will be displayed and user need to select a bus. After selecting, user can see a figure that indicates which seat is available and which seat is not. User can book one or many available seats. There is a good admin panel too. Admin can login with his/her login info and can add/edit/delete any bus or bus route. C++ file system is used to store data. I submitted this project as my academic C++ project course 'Software Engineering Capstone Project' under my course teacher Dr. Md. Asraf Ali in 3rd semester",
+        "logo" : "/assets/projects_logo/bus_ticket.png",
+        "duration" : "Oct 2019 - Dec 2019",
+        "github_link" : "https://github.com/AnupamAkib/My-C-Cpp-Project/tree/master/Bus-Ticket-Booking-System",
+        "live_link" : "",
+        "technology_used" : "C/C++"
+    }
+]
